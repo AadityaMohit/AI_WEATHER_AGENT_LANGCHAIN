@@ -99,7 +99,7 @@ if __name__ == "__main__":
     print("\n" + "="*50 + "\n")
     
     # Run agent with example query
-    query = "What's the weather in Bangalore yesterday?"
+    query = "What's the weather in Bangalore?"
     print(f"Query: {query}\n")
     
     # Invoke the agent graph with the query
