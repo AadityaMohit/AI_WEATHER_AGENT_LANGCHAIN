@@ -69,3 +69,4 @@ This agent is perfect for:
 - Enriching notes with web content
 - Staying updated on topics of interest
 
+
